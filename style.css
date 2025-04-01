@@ -1,0 +1,38 @@
+body{
+    background-color: #f4fafa;
+    color: rgb(50, 121, 53);
+    text-align: center;
+    font-size: 20px;
+    padding: 0 24px;
+}
+
+.texto_um{
+    color: #00b7ff;
+    font-size: 24px;
+}
+
+.texto_dois{
+    color: #209665;
+    font-size: 24px;
+}
+
+.paragrafo{
+    font-size: 20px;
+}
+
+.rodape{
+    text-align: center;
+    display: grid;
+    font-size: 18px;
+    color: #026607;
+}
+
+.imagem-um{
+    width: 30%;
+}
+
+
+.linha{
+    border-bottom: 1px solid #022506;
+    border-top: 1px solid #808080;
+}
